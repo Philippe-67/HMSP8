@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "maXz3ro3FlgwFc9sAW/U3vPwvKU2+CRjpHR26VHEeiMBhqr/aJLQEd6f8OvCAWv89JAxySbXz4HAfladqx29cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A114SR\\source\\repos\\newVersion\\HMSFrontEnd\\SharedInfrastructure\\SharedInfrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A114SR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\A114SR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\A114SR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

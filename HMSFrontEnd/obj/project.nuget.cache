@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6uYZD7sWDF0Smd6GVbrctYqeZ0Jxitu7+P6C+cF6uhfPgXHe5eqTOgxDNouy7Eh05qz0E/68sQL1r3TvBn/xLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A114SR\\source\\repos\\newVersion\\HMSFrontEnd\\HMSFrontEnd\\HMSFrontEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A114SR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\A114SR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\A114SR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\A114SR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
