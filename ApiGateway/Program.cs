@@ -1,4 +1,10 @@
+using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
+
 var builder = WebApplication.CreateBuilder(args);
+// Ajoute la configuration Ocelot à partir du fichier appsettings.json
+builder.Services.AddOcelot(builder.Configuration);
+
 
 // Add services to the container.
 
@@ -21,5 +27,8 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseOcelot().Wait();
+
 
 app.Run();

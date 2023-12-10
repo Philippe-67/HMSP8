@@ -1,4 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using MSPriseDeRendez_Vous.Data;
+using MSPriseDeRendez_Vous.Services;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<RendezVousDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
+
+builder.Services.AddScoped<RendezVousService, RendezVousService>();
 
 // Add services to the container.
 

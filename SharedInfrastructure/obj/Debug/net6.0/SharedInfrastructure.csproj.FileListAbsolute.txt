@@ -1,0 +1,12 @@
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\bin\Debug\net6.0\SharedInfrastructure.deps.json
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\bin\Debug\net6.0\SharedInfrastructure.dll
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\bin\Debug\net6.0\SharedInfrastructure.pdb
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\obj\Debug\net6.0\SharedInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\obj\Debug\net6.0\SharedInfrastructure.AssemblyInfoInputs.cache
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\obj\Debug\net6.0\SharedInfrastructure.AssemblyInfo.cs
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\obj\Debug\net6.0\SharedInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\obj\Debug\net6.0\SharedInfrastructure.sourcelink.json
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\obj\Debug\net6.0\SharedInfrastructure.dll
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\obj\Debug\net6.0\refint\SharedInfrastructure.dll
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\obj\Debug\net6.0\SharedInfrastructure.pdb
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\SharedInfrastructure\obj\Debug\net6.0\ref\SharedInfrastructure.dll

@@ -1,0 +1,33 @@
+﻿{
+    
+      "Routes": [
+        {
+          "DownstreamPathTemplate": "/gestionpraticiens/{everything}",
+          "DownstreamScheme": "https",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 7091
+            }
+          ],
+          "UpstreamPathTemplate": "/gestionpraticiens/{everything}",
+          "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+        },
+        {
+          "DownstreamPathTemplate": "/priserendezvous/{everything}",
+          "DownstreamScheme": "https",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 7144
+            }
+          ],
+          "UpstreamPathTemplate": "/priserendezvous/{everything}",
+          "UpstreamHttpMethod": [ "Get", "Post" ]
+        }
+      ],
+      "GlobalConfiguration": {
+        "BaseUrl": "https://localhost:5000"
+      }
+    }
+

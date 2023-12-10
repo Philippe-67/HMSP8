@@ -1,0 +1,8 @@
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\MSPriseDeRendez-Vous\obj\Debug\net6.0\MSPriseDeRendez-Vous.csproj.AssemblyReference.cache
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\MSPriseDeRendez-Vous\obj\Debug\net6.0\MSPriseDeRendez-Vous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\MSPriseDeRendez-Vous\obj\Debug\net6.0\MSPriseDeRendez-Vous.AssemblyInfoInputs.cache
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\MSPriseDeRendez-Vous\obj\Debug\net6.0\MSPriseDeRendez-Vous.AssemblyInfo.cs
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\MSPriseDeRendez-Vous\obj\Debug\net6.0\MSPriseDeRendez-Vous.csproj.CoreCompileInputs.cache
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\MSPriseDeRendez-Vous\obj\Debug\net6.0\MSPriseDeRendez-Vous.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\MSPriseDeRendez-Vous\obj\Debug\net6.0\MSPriseDeRendez-Vous.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A114SR\source\repos\newVersion\HMSFrontEnd\MSPriseDeRendez-Vous\obj\Debug\net6.0\MSPriseDeRendez-Vous.sourcelink.json
